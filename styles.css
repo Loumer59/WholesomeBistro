@@ -1,0 +1,72 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+     line-height: 1.5rem;
+     font-size: 1.4em;
+     font-family: cursive, 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     background-image: linear-gradient(rgb(213, 248, 161), rgb(168, 222, 106), rgb(225, 246, 208));
+  }
+
+  header > h1 {
+    text-align: center;
+    color:rgb(16, 67, 9);
+    margin-bottom: 3rem;
+  }
+
+ 
+
+  main {
+    margin: 0 auto; 
+    max-width: 800px;
+    width: 80%;
+    padding: 20px;
+    box-sizing: border-box;
+    border-left: 2px solid rgb(143, 196, 19);
+    border-right: 2px solid rgb(143, 196, 19);
+    border-top: 2px ridge transparent;
+    border-bottom: 2px ridge transparent;
+    
+  }
+
+  #menu > h2 {
+    text-align: center;
+    color: rgb(9, 89, 9)
+  }
+
+
+  #menu > ul {
+    text-align: center;
+    list-style-type: none;
+    margin: 0 0 2.5rem;
+    padding: 0;
+  }
+
+
+  #menu > ul > li {
+    margin-bottom: 2.5rem;
+  }
+   
+  #menu > hr {
+    max-width: 50%;
+    margin: 0 auto;
+    background-color:seagreen;
+  }
+
+  img {
+    max-width: 2rem;
+    max-height: 1.5rem;
+    vertical-align: middle;
+    margin-right: 7px;
+  }
+
+  .note {
+    font-style: italic;
+    font-size: 0.8em;
+    color: seagreen
+  }
+
+  .price {
+    font-weight: 900;
+    margin-left: 1.5rem;
+  }
