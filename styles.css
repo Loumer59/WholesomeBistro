@@ -5,7 +5,7 @@ body {
      line-height: 1.5rem;
      font-size: 1.4em;
      font-family: cursive, 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-     background-image: linear-gradient(rgb(213, 248, 161), rgb(168, 222, 106), rgb(225, 246, 208));
+     background-image: linear-gradient(rgb(251 223 112), rgb(168, 222, 106), rgb(225, 246, 208));
   }
 
   header > h1 {
